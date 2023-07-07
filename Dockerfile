@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:20-alpine
 LABEL maintainer="Vasyl Zakharchenko <vaszakharchenko@gmail.com>"
 LABEL author="Vasyl Zakharchenko"
 LABEL email="vaszakharchenko@gmail.com"
